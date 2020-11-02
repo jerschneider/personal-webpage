@@ -1,0 +1,142 @@
+.introPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.sectionLink:link {
+  font-size: small;
+
+}
+.tragedy {
+  display: block;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px 10px 10px 10px;
+}
+
+.resumePic {
+  display: block;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  padding: 10px 10px 10px 10px;
+}
+.backgroundBody {
+background-color: lightblue;
+opacity: .9;
+
+}
+.backgroundTitle {
+  background-color: lightblue;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+.whiteB {
+  border: white thin solid;
+}
+
+.backgroundMiddle {
+  background-color: green;
+  opacity: .9;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.mTitle {
+  border: lightblue thin solid;
+  padding: 1px 1px 1px 1px;
+  background-color: white;
+  margin: .1in .5in .1in .5in;
+  text-align: center;
+  color: black;
+  font-family: serif;
+  opacity: 1;
+}
+.centerText {
+  text-align: center;
+}
+
+
+.sTitle {
+  border: lightblue thin solid;
+  padding: 1px 10px 1px 10px;
+  background-color: coral;
+  margin: .1in .5in .1in .5in;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  opacity: 1;
+}
+
+.introduction {
+  border: lightblue thin solid;
+  padding: 1px 10px 1px 10px;
+  background-color: coral;
+  margin: .1in .5in .1in .5in;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  opacity: 1;
+}
+
+
+
+.middleC {
+  border: lightblue thin solid;
+
+  padding: 1px 10px 1px 10px;
+  background-color: white;
+  margin: .1in .5in .1in .5in;
+  color: black;
+  font-family: serif;
+  opacity: 1;
+}
+
+.home {
+  border: lightblue thin solid;
+  padding: 5px 5px 5px 5px;
+  background-color: white;
+  margin: 1in 1in 1in .1in;
+  color: white;
+  font-family: serif;
+}
+
+.resume {
+  border: lightblue thin solid;
+  padding: 5px 5px 5px 5px;
+  background-color: white;
+  margin: 1in .1in .1in .1in;
+  color: white;
+  font-family: serif;
+}
+
+.bottomText {
+  text-align: center;
+  font-size: 8px;
+  font-style: italic;
+  border: white thin solid;
+  padding: 1px 1px 1px 1px;
+  background-color: white;
+  margin: .01in .01in .01in .01in;
+  align-content: center;
+  opacity: .9;
+
+}
+
+.AltbottomText {
+  text-align: center;
+  font-size: 14px;
+  font-style: italic;
+  border: white thin solid;
+  padding: 1px 1px 1px 1px;
+  background-color: coral;
+  margin: .01in .01in .01in .01in;
+  align-content: center;
+  color: white;
+  opacity: 1;
+
+}

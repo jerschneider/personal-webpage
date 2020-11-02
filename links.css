@@ -1,0 +1,22 @@
+a:link {
+  color: gray;
+  font-size: large;
+  font-family: sans-serif;
+}
+
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+a:active {
+  color: blue;
+  font-size: x-large;
+
+}
